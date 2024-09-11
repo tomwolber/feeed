@@ -1,5 +1,4 @@
-# lovelace-home-feed-card
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
+# Feeed
 
 A custom Lovelace card for displaying a combination of persistent notifications, calendar events, and entities in the style of a feed.
 
